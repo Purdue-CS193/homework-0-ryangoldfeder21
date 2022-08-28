@@ -2,10 +2,14 @@
 
 ### My Favorite Things about CS 19300!
 
+```markdown
+Syntax highlighted code block
+
 -I get to learn how to use GitHub
 -The class only meets once per week
 -It is my only class on Tuesdays
 -It is taught by the best TA's at Purdue!
+```
 
 ### Welcome to GitHub Pages
 
