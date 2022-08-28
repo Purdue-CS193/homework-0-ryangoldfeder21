@@ -1,4 +1,13 @@
-## <Your Name>'s First CS193 Homework
+## Ryan Goldfeder's First CS 19300 Homework
+
+### My Favorite Things about CS 19300!
+
+-I get to learn how to use GitHub
+-The class only meets once per week
+-It is my only class on Tuesdays
+-It is taught by the best TA's at Purdue!
+
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
